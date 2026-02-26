@@ -118,18 +118,18 @@ pip install pandas numpy matplotlib seaborn
 
 ## Visualizations Summary
 
-| # | Type | Description |
-|---|---|---|
-| 1 | ✅ Good | — |
-| 2 | ✅ Good | — |
-| 3 | ❌ Bad (Misleading) | — |
-| 4 | ❌ Bad (Misleading) | — |
+| # | Type | 
+|---|---|
+| 1 | ✅ Good |
+| 2 | ✅ Good | 
+| 3 | ❌ Bad (Misleading) | 
+| 4 | ❌ Bad (Misleading) | 
 
-> Fill in the description column once your visualizations are finalized.
 
 ---
 
 ## Notes
-- All code was developed and tested in Google Colab.
+- Most of the code was developed and tested in Google Colab.
 - Missing values in `Age` were filled with the **median**; missing values in `Embarked` were filled with the **mode**.
 - The bad visualizations are intentionally misleading for academic/educational purposes and include explanations of why they mislead the reader.
+
