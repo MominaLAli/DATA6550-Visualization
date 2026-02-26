@@ -10,7 +10,6 @@ We use the **Titanic dataset** to create **2 ethical ("good")** and **2 intentio
 - **Yadlapalli**
 - **Hallikeri**
 
-> Each team member's code is stored in: `Code/<Lastname>/`
 
 ---
 
@@ -132,4 +131,5 @@ pip install pandas numpy matplotlib seaborn
 - Most of the code was developed and tested in Google Colab.
 - Missing values in `Age` were filled with the **median**; missing values in `Embarked` were filled with the **mode**.
 - The bad visualizations are intentionally misleading for academic/educational purposes and include explanations of why they mislead the reader.
+
 
